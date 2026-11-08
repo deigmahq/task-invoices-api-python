@@ -13,4 +13,4 @@ HEAD_PAGES = 2
 INVOICE_PROVIDER_URL = os.environ.get(
     "INVOICE_PROVIDER_URL", "https://api.invoice-provider.example/v2"
 )
-INVOICE_PROVIDER_KEY = "ivp_9d41c7e0a3b85f26c1d7"
+INVOICE_PROVIDER_KEY = "ivp_4c2d0fada04"
