@@ -1,0 +1,2 @@
+# The service itself uses the standard library only; this is the test runner.
+pytest>=8,<9
